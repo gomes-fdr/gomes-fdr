@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Software Engineer at [Azion](https://www.azion.com/) using Python 🐍
+- 🔭 I'm currently looking for a job.
 - :earth_americas: I'm from Porto Alegre, RS - Brazil
